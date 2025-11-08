@@ -3,7 +3,7 @@ Diagramas
 
 # Diagrama Conceitual
 
-# Uma academia de ginástica deseja manter um controle completo sobre o seu funcionamento.
+ Uma academia de ginástica deseja manter um controle completo sobre o seu funcionamento.
 
 # Os alunos são matriculados em turmas. Um aluno pode estar matriculado em várias turmas, caso deseje participar de diferentes atividades.
 
